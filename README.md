@@ -1,4 +1,4 @@
-# 🚀 Blockchain & Web3 Learning Hub
+# 🚀 Blockchain⛓ & Web3 Learning Hub🔗💻
 
 Welcome to the comprehensive learning repository for Blockchain and Web3 development! This repository is designed to take you from complete beginner to building your own decentralized applications.
 
